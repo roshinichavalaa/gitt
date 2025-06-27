@@ -1,10 +1,10 @@
-# 💄 Cosmetic Insights: Navigating Cosmetics Trends and Consumer Insights with Tableau
+# Cosmetic Insights: Navigating Cosmetics Trends and Consumer Insights with Tableau
 
 Welcome to **Cosmetic Insights**, a data analytics project built using Tableau to explore cosmetics market trends, consumer behavior, and product performance. This project transforms raw product and ingredient data into powerful dashboards and interactive stories for business insights.
 
 ---
 
-## 📌 Project Goals
+##  Project Goals
 
 - Analyze and visualize cosmetics data to identify trends
 - Understand consumer preferences across skin types
@@ -13,7 +13,7 @@ Welcome to **Cosmetic Insights**, a data analytics project built using Tableau t
 
 ---
 
-## 📂 Project Contents
+##  Project Contents
 
 | File/Folder | Description |
 |-------------|-------------|
@@ -28,17 +28,17 @@ Welcome to **Cosmetic Insights**, a data analytics project built using Tableau t
 
 ## 🧠 Key Features
 
-- 📊 **Multiple Visualizations**: Product ranking, brand comparison, skin-type suitability, ingredient breakdown
-- 📈 **Interactive Dashboards**: Two fully designed dashboards
-- 📖 **Tableau Story**: Scene-wise insight-driven story explaining use cases
-- ⚙️ **Real-World Scenarios**:
+- **Multiple Visualizations**: Product ranking, brand comparison, skin-type suitability, ingredient breakdown
+- **Interactive Dashboards**: Two fully designed dashboards
+- **Tableau Story**: Scene-wise insight-driven story explaining use cases
+- **Real-World Scenarios**:
   - Monitoring changing consumer trends
   - Addressing product concerns through reviews
   - Using predictive analytics for product innovation
 
 ---
 
-## 🔧 Tools Used
+##  Tools Used
 
 - **Tableau Public**
 - **Excel** (for data cleaning)
@@ -46,19 +46,19 @@ Welcome to **Cosmetic Insights**, a data analytics project built using Tableau t
 
 ---
 
-## 📽️ Demo Video
+## Demo Video
 
-🎥 [Watch the demo video](https://drive.google.com/your-video-link)
-
----
-
-## 🌐 Tableau Public Link
-
-🔗 [View the full dashboard and story][(https://public.tableau.com/views/Book16_17504885963580/Story1)](https://public.tableau.com/app/profile/roshini.chavala2071/viz/Book16_17504885963580/Story1?publish=yes)
+ [Watch the demo video](https://photos.app.goo.gl/2DFwEEH5DdCwWk2g8)
 
 ---
 
-## 🗂️ Folder Structure
+## Tableau Public Link
+
+🔗 [View the full dashboard and story](https://public.tableau.com/app/profile/roshini.chavala2071/viz/Book16_17504885963580/Story1?publish=yes)
+
+---
+
+##  Folder Structure
 cosmetic-insights-project/
 │
 ├── project_data.xlsx
@@ -78,13 +78,13 @@ cosmetic-insights-project/
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 Thanks to **Kaggle** for the dataset, **Tableau Public** for the free platform, and everyone who contributed feedback during the creation of this project.
 
 ---
 
-## 🚀 Author
+##  Author
 
 **Roshini Chavala**  
 Feel free to fork, share, and give feedback!
