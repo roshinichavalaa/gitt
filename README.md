@@ -48,7 +48,7 @@ Welcome to **Cosmetic Insights**, a data analytics project built using Tableau t
 
 ## Demo Video
 
- [Watch the demo video](https://photos.app.goo.gl/2DFwEEH5DdCwWk2g8)
+ [Watch the demo video](https://youtu.be/ugJGWJSKhMQ)
 
 ---
 
